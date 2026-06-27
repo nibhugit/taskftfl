@@ -1,0 +1,15 @@
+<svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" rx="18" fill="url(#paint0_linear_20_336)"/>
+<path d="M25.1875 29.4062C28.0352 29.4062 30.3438 27.0977 30.3438 24.25C30.3438 21.4023 28.0352 19.0938 25.1875 19.0938C22.3398 19.0938 20.0312 21.4023 20.0312 24.25C20.0312 27.0977 22.3398 29.4062 25.1875 29.4062Z" fill="white" fill-opacity="0.14" stroke="white" stroke-width="1.5"/>
+<path d="M33.625 24.4375C35.2819 24.4375 36.625 23.0944 36.625 21.4375C36.625 19.7806 35.2819 18.4375 33.625 18.4375C31.9681 18.4375 30.625 19.7806 30.625 21.4375C30.625 23.0944 31.9681 24.4375 33.625 24.4375Z" fill="#4EB299" fill-opacity="0.22" stroke="white" stroke-opacity="0.72" stroke-width="1.125"/>
+<path d="M25.1875 29.875C20.9688 29.875 18.1562 31.9375 18.1562 34.0938" stroke="white" stroke-width="1.5" stroke-linecap="round"/>
+<path d="M25.1875 29.875C29.4062 29.875 32.2188 31.9375 32.2188 34.0938" stroke="#4EB299" stroke-opacity="0.82" stroke-width="1.3125" stroke-linecap="round"/>
+<path d="M25.1875 26.3125C26.3266 26.3125 27.25 25.3891 27.25 24.25C27.25 23.1109 26.3266 22.1875 25.1875 22.1875C24.0484 22.1875 23.125 23.1109 23.125 24.25C23.125 25.3891 24.0484 26.3125 25.1875 26.3125Z" fill="white" fill-opacity="0.48"/>
+<path d="M33.625 25.1875C35.5 26.125 36.4375 27.5312 36.4375 28.9375" stroke="#4EB299" stroke-opacity="0.6" stroke-width="1.03125" stroke-linecap="round"/>
+<defs>
+<linearGradient id="paint0_linear_20_336" x1="0" y1="0" x2="56" y2="56" gradientUnits="userSpaceOnUse">
+<stop stop-color="#7C63FF"/>
+<stop offset="1" stop-color="#4EB299"/>
+</linearGradient>
+</defs>
+</svg>
